@@ -8,6 +8,9 @@ div#wall #tag-4 {
   display: none;
 }
 
+div#wall #tag-5{
+  display: none; 
+}
 
 div#div .slick {
  z-index: 10;
