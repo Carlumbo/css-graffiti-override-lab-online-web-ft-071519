@@ -5,6 +5,7 @@
 }
 
 div#wall #tag-4 {
+  position: absolute;
   z-index: 5;
   width: 400px;
   height: 300px;
