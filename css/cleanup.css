@@ -1,3 +1,11 @@
 /* write your override styles here */
 
-#
+#wall .tag-1 {
+  display: none;
+}
+
+
+div#wall .tag-4 {
+  z-index 8;
+
+}
