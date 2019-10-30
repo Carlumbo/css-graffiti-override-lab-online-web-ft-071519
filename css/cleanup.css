@@ -5,7 +5,7 @@
 }
 
 div#wall #tag-4 {
-  position: 20x, 30y;
+  position: relative;
   z-index: 3;
   width: 400px;
   height: 300px;
