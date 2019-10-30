@@ -13,8 +13,7 @@ div#wall #tag-4 {
 }
 
 div#wall #tag-2 {
-  width: 65%;
-  height: 500px;
+  size: 50%; 
 }
 
 div#div .slick {
