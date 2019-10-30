@@ -7,5 +7,5 @@
 
 div#wall .tag-4 {
   z-index 3;
-
+  display: none;
 }
