@@ -1,5 +1,9 @@
 /* write your override styles here */
 
+
+#wall {
+  color: red;
+}
 #wall .tag-1 {
   display: none;
 }
