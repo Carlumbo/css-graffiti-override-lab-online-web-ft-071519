@@ -15,4 +15,5 @@ div#wall #tag-7 {
   z-index: 8;
   width: 100%;
   height: 500px;
+  display: none;
 }
