@@ -11,9 +11,7 @@ div#wall #tag-4 {
   height: 500px;
   display: none;
 }
-div#wall #tag-2{
-  display: none;
-}
+
 div#div .slick {
  z-index: 10;
 }
