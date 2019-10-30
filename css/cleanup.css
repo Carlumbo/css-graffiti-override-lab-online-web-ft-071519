@@ -5,8 +5,7 @@
 }
 
 div#wall #tag-4 {
-  position: relative;
-  z-index: 6;
+  display: none;
 }
 
 
