@@ -11,7 +11,3 @@ div#wall #tag-4 {
 .parent .slick{
   display: none;
 }
-
-div#div .slick {
- z-index: 10;
-}
