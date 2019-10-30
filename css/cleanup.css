@@ -8,7 +8,7 @@ div#wall #tag-4 {
   display: none;
 }
 
-div#wall div{
+div#wall> div{
   display: none;
 }
 
