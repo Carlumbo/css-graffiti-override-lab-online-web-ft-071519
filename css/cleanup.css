@@ -14,7 +14,7 @@ div#wall #tag-4 {
 
 
 
-div#wall, #tag-2,#tag-3, #tag-5{
+div#wall #tag-5{
   display: none;
 }
 
