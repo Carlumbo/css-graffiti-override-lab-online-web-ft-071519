@@ -15,7 +15,7 @@ div#wall #tag-4 {
 div#wall #tag-2 {
   position: relative;
   z-index: 6;
-  width: 100%;
+  width: 50%;
   height: 500px;
 }
 
