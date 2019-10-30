@@ -5,5 +5,5 @@
 }
 
 div#wall #tag-4 {
-  display: none;
+  z-index: 10;
 }
