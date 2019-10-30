@@ -6,7 +6,7 @@
 
 div#wall #tag-4 {
   position: relative;
-  z-index: 3;
+  z-index: 6;
   width: 400px;
   height: 300px;
 }
